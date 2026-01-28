@@ -1,13 +1,13 @@
-# c-programming
-My C programming learning journey
-
 # C Programming
 
-This repository contains my C programming practice.
-I am a Computer Engineering student (GTU), learning programming step by step.
+This repository contains my C programming practice done during
+college lab sessions and self-study.
 
-Topics:
-- Basics
-- Conditions
-- Loops
-- Functions
+## Topics Covered
+- Basic programs
+- Practical lab exercises
+- Small projects
+
+## Student
+Computer Engineering (GTU)
+Semester 2
