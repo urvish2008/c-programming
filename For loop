@@ -1,0 +1,18 @@
+// for loops
+
+#include <stdio.h>
+
+void main()
+{
+
+int i;
+
+for(i=0;i<=10;i++)
+
+pirntf("%d/n",i);
+
+
+for looops
+
+i++ =. i=i+1
+i-- =. i=i-1
